@@ -1,0 +1,23 @@
+# Compiled output files
+rpn_calculator
+rpn_calculator.exe
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.su
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
